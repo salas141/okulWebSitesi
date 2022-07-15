@@ -1,2 +1,3 @@
-# okulWebSitesi
-Statik web sitesi - Okul Sitesi
+# Okul Web Sitesi
+## Statik web sitesi - Okul Sitesi
+HTML - CSS - JS
